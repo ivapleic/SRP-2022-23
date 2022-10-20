@@ -1,1 +1,0 @@
-Izvještaj za labove

@@ -75,4 +75,4 @@ Programu je trebalo malo duže vremena da se izvrti zato što smo prilikom svake
 
 **Rezultat (plaintext)**:
 
-![imagePerson](./BINGO.png)
+![imagePerson](BINGO.png)

@@ -2,7 +2,7 @@
 
 ## PRINCIP RADA MAC ALGORITMA :
 
-![Untitled](Lab%204%20Message%20authentication%20and%20integrity%2086aa88e9eb064755b0cdae6c6bf283f1/Untitled.png)
+![Untitled](image/Untitled.png)
 
 Da bismo stvorili **MAC** potrebni su nam **poruka** koju namjeravamo poslat te **ključ**. Python ima biblioteke koje sadrže funkcije za stvaranje MAC-a. Glavna ideja je da funkciji koja stvara MAC kao argumente pošaljemo **poruku** i **ključ**. Funkcija nam vrati generirani **MAC**. Mi kao izvorište poruku zajedno s MAC-om šaljemo odredištu.
 

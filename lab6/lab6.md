@@ -38,7 +38,7 @@ Već smo spomenuli kako se radi o lozinki koja se sastoji od **malih slova** te
 
 Primjenom kombinatorike (Diskretna matematika :) možemo izračunati koliko bi bilo vremena potrebno za pronalazak lozinke.
 
-![Untitled](Lab%206%20izvjes%CC%8Ctaj%203017cf74893a4f49b332d6fa763620af/Untitled.png)
+![Untitled](image/Untitled.png)
 
 Uz pomoć kombinatorike smo izračunali da postoji mogućih **2^30 kombinacija lozinke**. Pokretanjem zadatka smo dobili povratnu informaciju da je otprilike **64 zahtjeva po minuti**. Što znači da nam je potrebno **2^24 minuta** da bi prošli sve lozinke. Ako se to pretvori u godine, to je **2^5**, odnosno **32 godine**.
 
